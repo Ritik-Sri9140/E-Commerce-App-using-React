@@ -1,0 +1,24 @@
+			Use this Website for making a Project
+1-Tailwind CSS.com -> Get Started -> Frameworks Guide -> Create react app
+2-React icons for header 'search','user','icons','card'
+3-npm i nodemon express cors dotenv mongoose  for backend install
+4-Mongo db website- sign in- view all organization- create new org-name your org-next-new project-project name-next-create project-create-Mo free-name-city-create deployment
+5- install bcrypt js by using "npm i bcrypt" js for hash password in "backend-controller-signuppage"
+6-install rapid api in vs code-- make a icon in vs code - post method on - http://localhost:8080/api/signup- send in request2
+6 a- post method on - http://localhost:8080/api/signin- send in request3
+7- for frontend we "run npm start" and for backend we "run np run dev"
+8- in frontend-src-common-index.js folder collection of all Api's url
+9-install the tostify npm from "browser tostify npm" use of npm i react-toastify  for animated message when signup or login is DONE or FAIL
+10- Browse JSONWEBTOKEN and install this using npm i jsonwebtoken in backend side
+11-Browse npm i cookie-parser and install this backend side
+12- install the redux using "npm install @reduxjs/toolkit react-redux"
+13-install npm i moment i frontend side for setter date format and the website  is moment.js
+14.browse cloudinary and then create a account
+15.a.browse cloudinaryUploadImage -> reference-> upload API -> copy the link(https://api.cloudinary.com/v1_1/:cloud_name/:action) and paste on uploadImage.js file
+15.b.guides -> upload -> uploading assets -> copy (upload_preset) and paste in uploadImage.js file
+16. MongoDB id-srivastavar815@gmail.com pass- Ritik@123
+17.cloudinary id-ritik9140@gmail.com pass-Ritik@123
+18.browse stripe then login then going to developers section and then going API keys -> secret keys and copy this
+19.npm install --save stripe    write this on backend terminal and install this
+
+Error- Logout button and profilePic fuctionality is not working properly 
